@@ -1,0 +1,35 @@
+.navb{
+    display: flex;
+    justify-content: space-around;
+    background-color:#1f1b3a;
+    align-items: center;
+}
+nav{
+    display: flex;
+    gap:25px;   
+    justify-content: center;
+    padding: 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+}
+nav a:hover{
+    color: blueviolet;
+}
+button{
+    background-color: aliceblue;
+    border: none;
+    margin: 5px;
+    border-radius: 30px;
+    padding: 0px 30px;
+}
+button:hover{
+    background-color: powderblue;
+    color: white;
+    cursor: pointer;
+}
+h2{
+    color: white;
+}
