@@ -1,5 +1,5 @@
 import './experience.css';
-import ProjectCard from './ProjectCard';
+import ProjectCard from './projectcard';
 
 function Projects() {
   const projects = [
