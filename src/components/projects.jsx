@@ -15,19 +15,7 @@ function Projects() {
   ],
   liveLink: "https://sri-netfliix-clone.netlify.app/", 
   githubLink: "https://github.com/msrilatha859-python/netflix-clone",
-},
-  {
-    title: "Interactive React Event App",
-    description:
-      "Dynamic React application featuring randomized button positioning and conditional modal rendering.",
-    image: "/fun-image1.png",
-    badges: [
-      { label: "React", className: "bg-primary" },
-      { label: "Tailwind CSS", className: "bg-info text-dark" },
-    ],
-    liveLink: "https://funny-form.netlify.app/",
-    githubLink: "https://github.com/msrilatha859-python/trending-form",
-  },
+},  
   {
     title: "Food Recipe API App",
     description:
@@ -39,6 +27,18 @@ function Projects() {
     ],
     liveLink: "https://sri-basic-api.netlify.app/",
     githubLink: "https://github.com/msrilatha859-python/basicapi",
+  },
+  {
+    title: "Interactive React Event App",
+    description:
+      "Dynamic React application featuring randomized button positioning and conditional modal rendering.",
+    image: "/fun-image1.png",
+    badges: [
+      { label: "React", className: "bg-primary" },
+      { label: "Tailwind CSS", className: "bg-info text-dark" },
+    ],
+    liveLink: "https://funny-form.netlify.app/",
+    githubLink: "https://github.com/msrilatha859-python/trending-form",
   },
   {
     title: "Python File Organizer Tool",
