@@ -6,14 +6,14 @@ function Projects() {
     {
   title: "Netflix Clone (TMDB API)",
   description:
-    "Responsive Netflix-inspired web app built with React and TMDB API. Features movie categories, dynamic banners, and real-time data fetching.",
-  image: "/netflix-clone.png", 
+    "Responsive Movie Browser App-inspired web app built with React and TMDB API. Features movie categories, dynamic banners, and real-time data fetching.",
+  image: "/logo-clone.png", 
   badges: [
     { label: "React", className: "bg-primary" },
     { label: "TMDB API", className: "bg-danger" },
     { label: "Vite", className: "bg-warning text-dark" },
   ],
-  liveLink: "https://sri-netfliix-clone.netlify.app/", 
+  liveLink: "https://sri-movies.netlify.app/", 
   githubLink: "https://github.com/msrilatha859-python/netflix-clone",
 },  
   {
