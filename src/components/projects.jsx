@@ -4,9 +4,9 @@ import ProjectCard from './projectcard.jsx';
 function Projects() {
   const projects = [
     {
-  title: "Netflix Clone (TMDB API)",
+  title: "Movie Browser App (TMDB API)",
   description:
-    "Responsive Movie Browser App-inspired web app built with React and TMDB API. Features movie categories, dynamic banners, and real-time data fetching.",
+    "Responsive movie browsing web app built with React and the The Movie Database API, featuring dynamic categories and real-time data fetching.",
   image: "/logo-clone.png", 
   badges: [
     { label: "React", className: "bg-primary" },
