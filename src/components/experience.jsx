@@ -8,7 +8,7 @@ function Experience() {
         <div className="experience-card">
           <div className="experience-header">
             <h4>Developer</h4>
-            <span className="date">Jan 2025 – Present</span>
+            <span className="date">Jan 2025 – Dec 2025</span>
           </div>
           <h5>Virinchi Technologies <span>• Hyderabad</span></h5>
           <ul>

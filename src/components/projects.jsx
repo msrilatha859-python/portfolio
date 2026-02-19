@@ -13,7 +13,7 @@ function Projects() {
     { label: "TMDB API", className: "bg-danger" },
     { label: "Vite", className: "bg-warning text-dark" },
   ],
-  liveLink: "https://sri-movies.netlify.app/", 
+  liveLink: "https://sri-entertainment-ui.netlify.app/", 
   githubLink: "https://github.com/msrilatha859-python/netflix-clone",
 },  
   {
