@@ -4,6 +4,20 @@ import ProjectCard from './projectcard.jsx';
 function Projects() {
   const projects = [
     {
+  title: "BrewCart – Full Stack E-commerce App",
+  description:
+    "Full stack e-commerce application built with React (Vite) frontend and Django REST API backend. Features product listing, cart functionality, and API integration deployed on Vercel and Render.",
+  image: "/brewcart.png",  // Add screenshot image in public folder
+  badges: [
+    { label: "React", className: "bg-primary" },
+    { label: "Django REST", className: "bg-success" },
+    { label: "Axios", className: "bg-info text-dark" },
+    { label: "Vercel", className: "bg-dark" },
+  ],
+  liveLink: "https://brewcart.vercel.app/",
+  githubLink: "https://github.com/msrilatha859-python/coffee-ecommerce",
+},
+    {
   title: "Movie Browser App (TMDB API)",
   description:
     "Responsive movie browsing web app built with React and the The Movie Database API, featuring dynamic categories and real-time data fetching.",
