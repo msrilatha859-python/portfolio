@@ -4,10 +4,10 @@ import ProjectCard from './projectcard.jsx';
 function Projects() {
   const projects = [
     {
-  title: "BrewCart – Full Stack E-commerce App",
+  title: "Full Stack E-commerce App",
   description:
-    "Full stack e-commerce application built with React (Vite) frontend and Django REST API backend. Features product listing, cart functionality, and API integration deployed on Vercel and Render.",
-  image: "/brewcart.png",  // Add screenshot image in public folder
+    "Full-stack e-commerce app built with React and Django REST API. Includes product listing, cart functionality, and live deployment.",
+  image: "/brewcart.png",  
   badges: [
     { label: "React", className: "bg-primary" },
     { label: "Django REST", className: "bg-success" },
