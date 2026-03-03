@@ -9,7 +9,7 @@ p,li {
 body{
   font-family: 'Inter', sans-serif;
   background-color: #f9fafb;
-  
+  overflow-x: hidden;
 }
 
 

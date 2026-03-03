@@ -14,7 +14,7 @@ function Herosection() {
           </h2>
 
           <p className="tagline mb-3">
-            Full Stack Python | React | Django | WordPress | Shopify
+            Full Stack Python | React | Django | Rest API | WordPress | Shopify
           </p>
 
           <p className="description mb-4">
