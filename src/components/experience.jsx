@@ -7,6 +7,20 @@ function Experience() {
 
         <div className="experience-card">
           <div className="experience-header">
+            <h4>Web Developer</h4>
+            <span className="date">Apr 2025 – Present</span>
+          </div>
+          <h5>FMS International Dental Center <span>• Hyderabad</span></h5>
+          <ul>
+            <li>Maintained WordPress websites for dental and skin care brands.</li>
+            <li>Added and updated doctor profiles and blog content.</li>
+            <li>Generated schema markup and validated it using Google Rich Results Test.</li>
+            <li>Deployed validated schema updates to live pages.</li>
+          </ul>
+        </div>
+
+        <div className="experience-card">
+          <div className="experience-header">
             <h4>Developer</h4>
             <span className="date">Jan 2025 – Dec 2025</span>
           </div>
