@@ -26,10 +26,10 @@ function ProjectCard({ image, title, description, badges, liveLink, githubLink }
           </div>
 
           <div className="d-flex gap-2">
-            <a href={liveLink} className="btn btn-outline-primary btn-sm">
+            <a href={liveLink} target="_blank" rel="noopener noreferrer" className="btn btn-outline-primary btn-sm">
               Live
             </a>
-            <a href={githubLink} className="btn btn-outline-dark btn-sm">
+            <a href={githubLink} target="_blank" rel="noopener noreferrer" className="btn btn-outline-dark btn-sm">
               GitHub
             </a>
           </div>
