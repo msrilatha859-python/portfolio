@@ -17,7 +17,7 @@ function About() {
           <div className="col-12 col-md-8 px-md-5">
             <h2 className="fw-bold mb-4 text-primary">About Me</h2>
             <p className="text-justify">
-              I’m a Web Developer with 3 years of experience building responsive,
+              I’m a Web Developer with 3+ years of experience building responsive,
               user-friendly websites and web applications. I specialize in HTML,
               CSS, JavaScript, React, WordPress, Shopify, and Full-Stack Python
               development.
