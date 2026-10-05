@@ -18,7 +18,7 @@ function Herosection() {
           </p>
 
           <p className="description mb-4">
-            Web Developer with 3 years of experience building responsive
+            Web Developer with 4 years of experience building responsive
             websites and scalable e-commerce solutions using modern web
             technologies.
           </p>
